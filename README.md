@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @poohoop
+- 👋 Hi, I’m @vieiv
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ml, nn using python, octave
 - 💞️ I’m looking to collaborate on data related projects 
 - 📫 Reach me on github
 
